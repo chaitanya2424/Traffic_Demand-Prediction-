@@ -370,8 +370,8 @@ traffic-demand-prediction/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/traffic_demand_Prediction.git
-cd Traffic_Demand_Prediction
+https://github.com/chaitanya2424/Traffic_Demand-Prediction-.git
+cd Traffic_Demand-Prediction
 pip install -r requirements.txt
 ```
 
